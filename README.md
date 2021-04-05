@@ -1,2 +1,2 @@
 # portalberitaanalisa
-Final Year Project : Web Scraping - Disease News Aggregator with Python Django Engine
+Final Year Project : Web Scraping - Indonesia Disease News Aggregator and Analytic with Python Django Engine
